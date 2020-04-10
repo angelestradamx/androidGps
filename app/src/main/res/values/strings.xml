@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapaGoogle</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="myLocation">Mi Geolocalozación</string>
+    <string name="mandatoryPermissions">"Es obligatorio aceptar los permisos de ubicación para utilizar esta aplicación."</string>
+    <string name="mandatoryGPS">"Es requerido tener habilitada la úbicación para ocupar esta aplicación."</string>
+    <string name="tag">UDELP</string>
+</resources>
